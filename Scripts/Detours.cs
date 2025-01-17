@@ -253,7 +253,6 @@ namespace Detour
             }
             if (rootElement == null)
             {
-                Debug.Log(m_currentToolbar + "子啊");
                 Debug.Log("根节点不在");
                 return;
             }
